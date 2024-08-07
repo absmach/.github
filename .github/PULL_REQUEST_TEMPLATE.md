@@ -14,7 +14,7 @@ Please avoid force-pushing additional commits for a timely review/response if yo
 - Provide tests for your changes.
 - Use descriptive commit messages.
 - Comment your code where appropriate.
-- Squash your commits
+- Squash your commits.
 - Update any related documentation.
 -->
 

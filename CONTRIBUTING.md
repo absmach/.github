@@ -8,7 +8,7 @@ By participating, you are expected to uphold this code. Please report unacceptab
 
 ## Reporting issues
 
-Reporting issues are a great way to contribute to the project. We are perpetually grateful about a well-written, thorough bug report.
+Reporting issues is a great way to contribute to the project. We are perpetually grateful for a well-written, thorough bug report.
 
 Before raising a new issue, check the issues page to determine if it already contains the problem that you are facing.
 
@@ -23,11 +23,11 @@ report:
 
 ## Pull requests
 
-Good pull requests (e.g. patches, improvements, new features) are a fantastic help. They should remain focused in scope and avoid unrelated commits.
+Good pull requests (e.g. patches, improvements, new features) are a fantastic help. They should remain focused on scope and avoid unrelated commits.
 
-**Please ask first** before embarking on any significant pull request (e.g. implementing new features, refactoring code etc.), otherwise you risk spending a lot of time working on something that the maintainers might not want to merge into the project.
+**Please ask first** before embarking on any significant pull request (e.g. implementing new features, refactoring code etc.), otherwise, you risk spending a lot of time working on something that the maintainers might not want to merge into the project.
 
-Please adhere to the coding conventions used throughout the project. For Golang based repos, if in doubt, consult the [Effective Go](https://golang.org/doc/effective_go.html) style guide.
+Please adhere to the coding conventions used throughout the project. For Golang-based repos, if in doubt, consult the [Effective Go](https://golang.org/doc/effective_go.html) style guide.
 
 To contribute to the project, [fork](https://help.github.com/articles/fork-a-repo/) it, clone your fork repository, and configure the remotes:
 
@@ -52,7 +52,7 @@ git checkout -b AB-[issue-number]
 
 Commit your changes in logical chunks. When you are ready to commit, make sure to write a Good Commit Message™. Consult the [Erlang's contributing guide](https://github.com/erlang/otp/wiki/Writing-good-commit-messages) if you're unsure of what constitutes a Good Commit Message™. Use [interactive rebase](https://help.github.com/articles/about-git-rebase) to group your commits into logical units of work before making it public.
 
-Note that every commit you make must be signed. By signing off your work you indicate that you
+Note that every commit you make must be signed. By signing off your work, you indicate that you
 are accepting the [Developer Certificate of Origin](https://developercertificate.org/).
 
 Use your real name (sorry, no pseudonyms or anonymous contributions). If you set your `user.name`

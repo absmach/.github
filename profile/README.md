@@ -13,4 +13,4 @@ If you would like to contribute to our projects, please check out our [Contribut
 ## 👩‍💻 Useful resources
 
 - [Website](https://abstractmachines.fr/)
-- [medium-blog](https://medium.com/abstract-machines-blog)
+- [Medium blog](https://medium.com/abstract-machines-blog)

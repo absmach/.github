@@ -4,7 +4,7 @@
 name: Feature Request
 description: File a feature request. Make sure to search to see if a request already exists for the feature you are requesting.
 title: "Feature: <title>"
-labels: ["enchancement", "needs-review"]
+labels: ["enhancement", "needs-review"]
 body:
   - type: textarea
     attributes:
