@@ -1,2 +1,3 @@
 # .github
-Community health files for the @absmach organization
+
+Community health files for the [@absmach](https://github.com/absmach) organization.
