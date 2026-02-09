@@ -1,11 +1,11 @@
 # Copyright (c) Abstract Machines
 # SPDX-License-Identifier: Apache-2.0
 
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
-  - name: Google group
-    url: https://groups.google.com/forum/#!forum/mainflux
-    about: Join the Magistrala community on Google group.
+  - name: Support email
+    url: mailto:info@absmach.eu
+    about: Contact Absmach community support.
   - name: Gitter
-    url: https://gitter.im/mainflux/mainflux
-    about: Join the Magistrala community on Gitter.
+    url: https://matrix.to/#/!zhoyNzJKBUyyhHtgPr:gitter.im?via=gitter.im&via=matrix.org&via=chat.lfx.linuxfoundation.org
+    about: Join us on Matrix.
